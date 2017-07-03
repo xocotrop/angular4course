@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "noEmitOnError": false //para nao compilar se der erro mudar para true
+    }
+}
