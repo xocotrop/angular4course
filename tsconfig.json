@@ -1,6 +1,9 @@
 {
     "compilerOptions": {
         "outDir": "dist",
-        "noEmitOnError": false //para nao compilar se der erro mudar para true
+        "noEmitOnError": false, //para nao compilar se der erro mudar para true
+        "typeRoots": [
+            "node_modeules/@types"
+        ]
     }
 }
